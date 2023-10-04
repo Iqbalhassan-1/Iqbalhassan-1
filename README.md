@@ -6,7 +6,7 @@
 <h4 align="center">
 I am a Frontend Developer specializing in JavaScript, with over 2 years of professional experience in software development. My expertise lies in working with technologies like React and Next, I am currently employed at k2x.tech, where I am dedicated to crafting scalable and dependable applications.
 <br /><br />
-Currently working with leading technologies and tools including Javascript | React.js | Next.js | Redux | React-Query | React-Form | HTML | CSS | SCSS | TailwindCss | LESS | Micro-Frontends | MUI | ANT design | Bootstrap | Rest API | Context API | Formik | Apollo GraphQl | Linux | Jest | Cypress.js | Git | Agile
+Currently working with leading technologies and tools including Javascript | React.js | Next.js | Redux | React-Query | React-Form | HTML | CSS | SCSS | TailwindCss | LESS | Micro-Frontends | MUI | ANT design | Bootstrap | Rest API | Context API | Formik | Git | Agile
 <br /><br />
 I have a diverse background, having worked in various industries and with companies both large and small. My ideal work environment is one that presents daily challenges and opportunities for growth. I am deeply passionate about learning new skills and am always eager to expand my expertise. Additionally, I am highly focused on improving code efficiency. Feel free to connect with me on LinkedIn for more information about my professional journey.
 LinkedIn: https://www.linkedin.com/in/iqbalhassan/ 
