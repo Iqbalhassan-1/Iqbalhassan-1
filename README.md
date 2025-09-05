@@ -99,24 +99,6 @@ LinkedIn: https://www.linkedin.com/in/iqbalhassan/
   &emsp;
 </p>
 <br/>
-## 📊 Github Stats (Expand to View)
-<details>
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Basit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Iqbalhassan-1&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Iqbalhassan-1&show_icons=true&locale=en&layout=compact&theme=algolia" alt="mubashir-dev" height="192px"/>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</details>
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/Emiqbal11"><img alt="iqbak's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Iqbalhassan-1&custom_title=iqbal%20hassan's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-</details>
+
 <br/>
 - 📫 How to reach me? Well here is my email emiqball111@gmail.com
