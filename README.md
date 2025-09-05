@@ -4,7 +4,7 @@
 </p>
 <hr/>
 <h4 align="center">
-I am a Frontend Developer specializing in JavaScript, with over 4 years of professional experience in software development. My expertise lies in working with technologies like React and Next, I am currently employed at k2x.tech, where I am dedicated to crafting scalable and dependable applications.
+I am a Frontend Developer specializing in JavaScript, with over 4 years of professional experience in software development. My expertise lies in working with technologies like React and Next, I am currently employed at En Route Technologies LLC, where I am dedicated to crafting scalable and dependable applications.
 <br /><br />
 Currently working with leading technologies and tools including Javascript | React.js | Next.js | Redux | React-Query | React-Form | HTML | CSS | SCSS | TailwindCss | LESS | Micro-Frontends | MUI | ANT design | Bootstrap | Rest API | Context API | Formik | Git | Agile |
 <br /><br />
